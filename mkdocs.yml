@@ -1,0 +1,13 @@
+site_name: Clean MkDocs Benchmark
+site_description: Documentation benchmark repository
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Configuration: configuration.md
+  - API:
+      - Overview: api/overview.md
+      - Errors: api/errors.md
+theme:
+  name: material
+markdown_extensions:
+  - admonition
